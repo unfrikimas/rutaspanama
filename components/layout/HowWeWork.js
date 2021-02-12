@@ -112,12 +112,12 @@ const HowWeWork = () => {
                   fill="#342931"
                 />
               </svg>
-              <div className="flex mt-12 flex-col items-center lg:items-end md:w-8/12">
+              <div className="flex mt-12 flex-col lg:items-end md:w-8/12">
                 <h1 className="text-2xl tracking-wide font-semibold text-marron">
                   Certificación ISO 9001
                 </h1>
-                <h2 className="text-colo-para mt-3 pl-3 text-center md:text-right text-base leading-6 tracking-wide">
-                    Nuestra Política de Calidad nos posiciona como una empresa enfocada en brindar un servicio de transporte terrestre a empleados, ejecutivos y turistas que excede las expectativas del cliente, a través de un servicio seguro, puntual y cómodo brindado por personal altamente calificado y comprometido que busca la mejora continua mediante el seguimiento, medición, análisis y evaluación de la eficacia de nuestro Sistema de Gestión de la Calidad certificado bajo la norma Internacional ISO 9001.
+                <h2 className="text-colo-para mt-3 md:text-right text-base leading-6 tracking-wide">
+                  Nuestra Política de Calidad nos posiciona como una empresa enfocada en brindar un servicio de transporte terrestre a empleados, ejecutivos y turistas que excede las expectativas del cliente, a través de un servicio seguro, puntual y cómodo brindado por personal altamente calificado y comprometido que busca la mejora continua mediante el seguimiento, medición, análisis y evaluación de la eficacia de nuestro Sistema de Gestión de la Calidad certificado bajo la norma Internacional ISO 9001.
                 </h2>
               </div>
               <svg
@@ -236,8 +236,7 @@ const HowWeWork = () => {
                   fill="white"
                 />
               </svg>
-
-              <div className="flex mt-12 flex-col items-center md:items-start md:w-8/12">
+              <div className="flex mt-12 flex-col md:items-start md:w-8/12">
                 <h1 className="text-2xl tracking-wide font-semibold text-marron">
                   Seguridad
                 </h1>
@@ -374,7 +373,7 @@ const HowWeWork = () => {
                   fill="#342931"
                 />
               </svg>
-              <div className="flex mt-12 flex-col items-center md:items-start md:w-8/12">
+              <div className="flex mt-12 flex-col md:items-start md:w-8/12">
                 <h1 className="text-2xl tracking-wide font-semibold text-marron">
                   Atención 365
                 </h1>
@@ -486,10 +485,10 @@ const HowWeWork = () => {
               ></path>
             </svg>
             <div className="mt-10">
-              <h1 className="text-2xl text-center tracking-wide font-semibold">
+              <h1 className="text-2xl tracking-wide font-semibold">
                 Seguridad
               </h1>
-              <h2 className="text-colo-para mt-3 text-center text-base leading-6 tracking-wide">
+              <h2 className="text-colo-para mt-3 text-base leading-6 tracking-wide">
                 En Rutas Panamá practicamos y compartimos la pasión por la seguridad y la consideramos como un factor clave durante la prestación de nuestros servicios de transporte, logrando un entorno de trabajo seguro para nuestros empleados y clientes mediante un constante y minucioso proceso de revisión y mantenimiento de nuestra flota.
               </h2>
             </div>
@@ -622,10 +621,10 @@ const HowWeWork = () => {
               ></path>
             </svg>
             <div className="mt-10">
-              <h1 className="text-2xl tracking-wide text-center font-semibold">
+              <h1 className="text-2xl tracking-wide font-semibold">
                 Certificación ISO 9001
               </h1>
-              <h2 className="text-colo-para mt-3 pl-3 text-center text-base leading-6 tracking-wide">
+              <h2 className="text-colo-para mt-3 text-base leading-6 tracking-wide">
                 Nuestra Política de Calidad nos posiciona como una empresa enfocada en brindar un servicio de transporte terrestre a empleados, ejecutivos y turistas que excede las expectativas del cliente, a través de un servicio seguro, puntual y cómodo brindado por personal altamente calificado y comprometido que busca la mejora continua mediante el seguimiento, medición, análisis y evaluación de la eficacia de nuestros Sistema de Gestión de la Calidad certificado bajo la norma Internacional ISO 9001.
               </h2>
             </div>
@@ -738,11 +737,11 @@ const HowWeWork = () => {
                 fill="#342931"
               ></path>
             </svg>
-            <div className="flex mt-10 flex-col items-center md:items-start md:w-8/12">
-              <h1 className="text-2xl text-center tracking-wide font-semibold">
-                Atención
+            <div className="flex mt-10 flex-col md:items-start md:w-8/12">
+              <h1 className="text-2xl tracking-wide font-semibold">
+                Atención 365
               </h1>
-              <h2 className="text-colo-para mt-3 text-center text-base leading-6 tracking-wide">
+              <h2 className="text-colo-para mt-3 text-base leading-6 tracking-wide">
                 Contamos con un equipo altamente calificado de colaboradores trabajando día a día en conjunto con nuestra sede principal en Panamá, manejando los mas altos estándares de calidad reconocidos a nivel internacional.
               </h2>
             </div>

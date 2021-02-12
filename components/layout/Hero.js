@@ -13,7 +13,7 @@ const Hero = () => {
             Empresa 100% panameña con más de 13 años de experiencia. Comprometidos con la satisfaccion y bienestar de cada uno de nuestros clientes.
             </h2>
             <div className="w-full flex justify-center md:block">
-              <button className="bg-amarillo py-4 px-10 lg:py-7 lg:px-20 rounded-3xl text-marron text-sm md:text-2xl f-f-p">
+              <button className="bg-amarillo py-6 px-12 lg:py-7 lg:px-20 rounded-3xl tracking-wide text-2xl text-marron font-semibold md:text-2xl f-f-p">
                 Contactar
               </button>
             </div>
