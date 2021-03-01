@@ -1,5 +1,6 @@
-import Head from "next/head";
-import Header from "../layout/Header";
+import Head from "next/head"
+import Header from "../layout/Header"
+import Footer from '../layout/Footer'
 
 export default function Layout({ children, title = "Rutas Panamá" }) {
   return (
@@ -23,7 +24,7 @@ export default function Layout({ children, title = "Rutas Panamá" }) {
 
       {children}
 
-      <footer>{"I`m here to stay"}</footer>
+      <Footer />
     </div>
   );
 }
