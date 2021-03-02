@@ -6,7 +6,7 @@ import IconPuerta from '../icons/Puerta'
 
 const Features = () => {
   return (
-    <div className="py-12 lg:py-16 mx-auto container f-f-p px-4 xl:px-0">
+    <div className="py-12 lg:py-16 mx-auto container f-f-p px-4 xl:px-16">
       <h2 className="lg:pb-20 text-center text-3xl lg:text-5xl tracking-wider text-marron">
         Servicios
       </h2>

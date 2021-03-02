@@ -9,7 +9,7 @@ const Header = () => {
   const [menuMobile, setMenuMobile] = useState(false)
 
   return (
-    <div className="lg:px-6 xl:px-0">
+    <div className="lg:px-6 xl:px-16">
       <div className="container mx-auto relative z-20">
         <nav className="w-full absolute">
           <div className="hidden lg:flex w-full f-f-p justify-between items-center py-6 relative">

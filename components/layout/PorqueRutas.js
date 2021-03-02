@@ -8,12 +8,12 @@ import IconApp from "../icons/App";
 
 const PorqueRutas = () => {
   return (
-    <div className="mx-auto container px-4 xl:px-0 py-20 lg:pt-36 f-f-p">
+    <div className="mx-auto container px-4 xl:px-16 py-16 xl:pt-36 f-f-p">
       <h1 className="text-center text-3xl lg:text-5xl tracking-wider text-marron">
         Por qué Rutas Panamá
       </h1>
       <div className="w-full flex justify-center mt-12 lg:mt-36">
-        <div className="hidden lg:block xl:w-11/12">
+        <div className="hidden lg:block xl:w-12/12">
           <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-8">
             <div>
               <div className="flex items-center justify-end pb-12 xl:pr-10">
